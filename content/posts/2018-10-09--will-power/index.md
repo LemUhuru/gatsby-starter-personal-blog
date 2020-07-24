@@ -1,8 +1,8 @@
 ---
-title: Will Power
-subTitle: Measuring the immeasurable.
+title: ဖေဖေ
+subTitle: .
 category: "sentiment"
 ---
 
+ကျွန်ုတော် နာမည် Lemuel။
 
-Willpower
